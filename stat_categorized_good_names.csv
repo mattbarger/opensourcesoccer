@@ -1,0 +1,77 @@
+indicator,ind_name,category
+x_g_expected,Expected Goals,Attacking
+off,Offsides Drawn,Attacking
+so_t,Shots on Target Attempted,Attacking
+sh,Shots Attempted,Attacking
+att_pen_touches,Touches in Attack Penalty Area,Attacking
+p_katt,Penalties Attempted,Attacking
+p_kwon,Penalties Drawn,Attacking
+cpa_carries,Carries into Penalty Area,Attacking
+attacking_actions,Attacking Actions (Composite),Attacking
+x_a_expected,Expected Assists,Attacking
+att_3rd_touches,Touches in Attack Third,Attacking
+sca_sca,Shot Creating Actions,Attacking
+kp,Key Passes,Attacking
+ppa,Passes into Penalty Area,Attacking
+crs_pass_types,Crosses Attempted,Attacking
+att_3rd_pressures,Pressures in Attack Third,Defensive
+air_duels_att,Air Duels Attempted,Defensive
+og,Own Goals,Defensive
+att_3rd_tackles,Tackles in Attacking Third,Defensive
+fls,Fouls Committed (non-card),Defensive
+red_cards,Red Cards Drawn,Defensive
+total_pressures,Total Pressures,Defensive
+yellow_cards,Yellow Cards,Defensive
+mid_3rd_pressures,Pressures in Middle Third,Defensive
+err,Errors,Defensive
+clr,Clearances,Defensive
+defensive_actions,Defensive Actions (Composite),Defensive
+def_3rd_tackles,Tackles in Defensive Third,Defensive
+total_blocks,Total Blocks,Defensive
+interceptions,Interceptions,Defensive
+def_3rd_pressures,Pressures in Defensive Third,Defensive
+recov,Loose Ball Recoveries,Defensive
+prog_receiving,Progressive Passes Received,Passing
+press_pass_types,Passes under Pressure,Passing
+ck_pass_types,Corners Taken,Passing
+off_outcomes,Passes Offside,Passing
+low_height,Low-height Passes,Passing
+dead_pass_types,Dead Ball Passes,Passing
+final_third_carries,Carries into Final Third,Passing
+prog_carries,Progressive Carries,Passing
+att_short,Short Passses Attempted,Passing
+mid_3rd_tackles,Tackles in the Middle Third,Defensive
+final_third,Passes into Final Third,Passing
+high_height,High Passes Attempted ,Passing
+def_3rd_touches,Touches in Defensive Third,Passing
+prog,Progressive Passes Completed,Passing
+ground_height,Passes along Ground,Passing
+att_long,Long Passes Attempted,Passing
+tot_dist_total,Total Distance of Passes (yds),Passing
+prg_dist_carries,Total Progressive Passing Distance,Passing
+tackle_attempts,Tackles Attempted,Defensive
+att_medium,Medium Passes Attempted,Passing
+passing_actions,Passing Actions (Composite),Passing
+prg_dist_total,Total Progressive Carry Distance (yds),Passing
+live_pass_types,Live Ball Passes,Passing
+tot_dist_carries,Total Carry Distance,Passing
+pass_attempts,Passes Attempted,Passing
+unpress_pass_types,Unpressured Passes,Passing
+mis_carries,Miscontrols,Possessive
+dis_carries,Times Dispossessed,Possessive
+fld,Fouls Drawn,Possessive
+targ_receiving,Targets Attempted,Possessive
+att_dribbles,Dribbles Attempted,Possessive
+player_num_pl_dribbles,Players Dribbled Past,Possessive
+dead_ball_touches,Dead Ball Touches,Possessive
+sw_pass_types,Switch Passes,Possessive
+rec_receiving,Complete Receptions,Possessive
+reg_dist_passes,Regressive Passing Distance,Possessive
+possessive_actions,Possessive Actions (Composite),Possessive
+mid_3rd_touches,Touches in Middle Third,Possessive
+reg_dist_carries,Carries Backward,Possessive
+nonprog_carries,Non-Progressive Carries,Possessive
+carries_carries,Carries,Possessive
+total_dm_touches,Total Touches in Defensive and Middle Third,Possessive
+succ_carries,Successful Carries,Possessive
+live_touches,Live Ball Touches,Possessive
