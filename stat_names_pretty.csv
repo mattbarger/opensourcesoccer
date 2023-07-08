@@ -1,0 +1,127 @@
+id,Variable,Variable Category,Description,Keep
+1,Season,ID,Season,TRUE
+2,Team,ID,Team Name,TRUE
+3,Player,ID,Player,TRUE
+4,Nation,ID,Player Nationality,TRUE
+5,App,ID,Appearances,TRUE
+6,Min,ID,Minutes,TRUE
+7,m_90s,ID,Aggregate 90s Played,TRUE
+8,Gls,Attacking,Goals,NA
+9,Ast,Attacking,Assists,NA
+10,PK,Attacking,Penalties,NA
+11,PKatt,Attacking,Penalties attempted,
+12,Sh,Attacking,Shots Attempted,TRUE
+13,SoT,Attacking,Shots on Target Attempted,TRUE
+14,CrdY,Defending,Yellow Cards,TRUE
+15,CrdR,Defending,Red Cards,TRUE
+16,Touches,Holding,Touches,TRUE
+17,Tkl,Defending,Tackles,TRUE
+18,Int,Defending,Interceptions,TRUE
+19,Blocks,Defending,Blocks,TRUE
+20,xG_Expected,Attacking,Expected Goals,NA
+21,npxG_Expected,Attacking,Non-Penalty Expected Goals,NA
+22,xAG_Expected,Attacking,Expected Assists,NA
+23,SCA_SCA,Attacking,Shot Creating Actions,TRUE
+24,GCA_SCA,Attacking,Goal Creating Actions,NA
+25,Cmp_Passes,Advancing,Passes Completed,NA
+26,Att_Passes,NA,Passes Attempted,NA
+27,Cmp_percent_Passes,Advancing,Pass Completion Percentage,NA
+28,PrgP_Passes,Advancing,Progressive Passes Completed,TRUE
+29,Carries_Carries,Holding,Total Carries Controlled,TRUE
+30,PrgC_Carries,Holding,Carries of 10 forward yards or more,TRUE
+31,Att_Take_Ons,Advancing,Take-Ons Attempted,TRUE
+32,Succ_Take_Ons,NA,Take-Ons Completed,NA
+33,Cmp_Total,NA,Passes Completed,NA
+34,Att_Total,Advancing,Passes Attempted,TRUE
+35,Cmp_percent_Total,NA,Pass Completion Percentage,NA
+36,TotDist_Total,Advancing,Pass Completion Yardage,TRUE
+37,PrgDist_Total,Advancing,Forward Pass Completion Yardage,TRUE
+38,Cmp_Short,NA,Short Passes Completed,NA
+39,Att_Short,Advancing,Short Passes Attempted,TRUE
+40,Cmp_percent_Short,NA,Short Pass Completion Percentage,NA
+41,Cmp_Medium,NA,Medium Passes Completed,NA
+42,Att_Medium,Advancing,Medium Passes Attempted,TRUE
+43,Cmp_percent_Medium,NA,Medium Pass Completion Percentage,NA
+44,Cmp_Long,NA,Long Passes Completed,NA
+45,Att_Long,Advancing,Long Passes Attempted,TRUE
+46,Cmp_percent_Long,NA,Long Pass Completion Percentage,NA
+47,xAG,NA,Expected Assists for Key Passes,NA
+48,xA,Advancing,Expected Assists for All Passes,TRUE
+49,KP,Attacking,Key Pass (Pass that leads to shot),TRUE
+50,Final_Third,Attacking,Completed Passes Entering Final Third,TRUE
+51,PPA,Attacking,Completed Passes Into Penalty Area,TRUE
+52,CrsPA,Attacking,Completed Crosses Into Penalty Area,TRUE
+53,PrgP,Advancing,Completed Passes 10 yards forward or more,TRUE
+54,Att,NA,Passes Attempted,NA
+55,Live_Pass_Types,Holding,Live Passes Attempted,TRUE
+56,Dead_Pass_Types,Holding,Dead-ball Passes Attempted,TRUE
+57,FK_Pass_Types,Holding,Passes Attempted by Free Kicks,
+58,TB_Pass_Types,Attacking,Through Balls Attemptd,TRUE
+59,Sw_Pass_Types,Holding,Passes Traveling 40 yards or more across the pitch,TRUE
+60,Crs_Pass_Types,Attacking,Crosses Attempted,TRUE
+61,TI_Pass_Types,Holding,Throw Ins Attempted,
+62,CK_Pass_Types,Attacking,Corner Kicks Attempted,
+63,In_Corner_Kicks,NA,In-Swinging Corner Kicks Attempted,NA
+64,Out_Corner_Kicks,NA,Out-Swinging Corner Kicks Attempted,NA
+65,Str_Corner_Kicks,NA,Straight-ball Corner Kicks Attempted,NA
+66,Cmp_Outcomes,NA,Completed Passes,NA
+67,Off_Outcomes,Attacking,Passes Offside,TRUE
+68,Blocks_Outcomes,NA,Passes Blocked,NA
+69,Touches_Touches,Holding,Total Touches,
+70,Def Pen_Touches,Holding,Touches in Defensive Penalty Area,TRUE
+71,Def 3rd_Touches,Holding,Touches in Defensive Third,TRUE
+72,Mid 3rd_Touches,Holding,Touches in Middle Third,TRUE
+73,Att 3rd_Touches,Attacking,Touches in Attacking Third,TRUE
+74,Att Pen_Touches,Attacking,Touches in Attacking Penalty Area,TRUE
+75,Live_Touches,Holding,Live-Ball Touches,TRUE
+76,Succ_percent_Take_Ons,NA,Take-On Success Percentage,NA
+77,Tkld_Take_Ons,NA,Take-Ons Failed,NA
+78,Tkld_percent_Take_Ons,NA,Take-On Failure Percentage,NA
+79,TotDist_Carries,Advancing,Total Carry Distance,TRUE
+80,PrgDist_Carries,Advancing,Total Forward Carry Distance,TRUE
+81,Final_Third_Carries,Attacking,Carries into Final Third,TRUE
+82,CPA_Carries,Attacking,Carries into Penalty Area,TRUE
+83,Mis_Carries,NA,Miscontrols,NA
+84,Dis_Carries,NA,Times Dispossessed,NA
+85,Rec_Receiving,Advancing,Total Pass Receptions,TRUE
+86,PrgR_Receiving,Advancing,Total Progressive Pass Receptions,TRUE
+87,Tkl_Tackles,Defending,Total Tackles,TRUE
+88,TklW_Tackles,NA,Total Possession-Winning Tackles,NA
+89,Def 3rd_Tackles,Defending,Tackles in Defensive Third,TRUE
+90,Mid 3rd_Tackles,Defending,Tackles in Middle Third,TRUE
+91,Att 3rd_Tackles,Defending,Tackles in Attacking Third,TRUE
+92,Tkl_Challenges,NA,Dribblers Tackled Successfully,NA
+93,Att_Challenges,Defending,Dribblers Faced,TRUE
+94,Tkl_percent_Challenges,NA,Dribbler Tackling Percentage,NA
+95,Lost_Challenges,NA,Tackles against Dribblers Lost,NA
+96,Blocks_Blocks,Defending,Total Blocks,
+97,Sh_Blocks,Defending,Shots Blocked,TRUE
+98,Pass_Blocks,Defending,Passes Blocked,TRUE
+99,Tkl+Int,NA,Tackles + Interceptions,NA
+100,Clr,Defending,Clearances,TRUE
+101,Err,Defending,Defensive Errors,TRUE
+102,2CrdY,NA,Second Yellow Cards,NA
+103,Fls,Defending,Fouls Committed,TRUE
+104,Fld,Attacking,Fouls Drawn,TRUE
+105,Off,Attacking,Offsides Committed,TRUE
+106,Crs,NA,Crosses Attempted,NA
+107,TklW,NA,Tackles Won,NA
+108,PKwon,Attacking,Penalty Kicks Drawn,TRUE
+109,PKcon,NA,Penalty Kicks Converted,NA
+110,OG,Defending,Own Goals Scored,
+111,Recov,Defending,Loose Balls Recovered,TRUE
+112,Won_Aerial_Duels,NA,Aerial Duels Won,NA
+113,Lost_Aerial_Duels,NA,Aerial Duels Lost,NA
+114,Won_percent_Aerial_Duels,NA,Aerial Duels Lost,NA
+115,RegDist_Carries,Holding,Total Non-Forward Distance Carried,TRUE
+116,RegDist_Passing,Holding,Total Non-Forward Pass Distance,TRUE
+117,PrgDist_Choice,Advancing,Directness (Progressive Passes per Pass),TRUE
+118,RegDist_Choice,Holding,InDirectness (Regressive Passes per Pass),TRUE
+119,CarryFirst,Advancing,Carry Propensity,TRUE
+120,PassFirst,Advancing,Psass Propensity,TRUE
+121,Prg_CarryFirst,Advancing,Progressive Pass vs Carry,
+122,Prg_PassFirst,Advancing,Progressive Carry vs Pass,
+123,Shot_Tendency,Attacking,Shot Tendency,
+124,AirDuels_Att,Defending,Air Duels Attempted,TRUE
+125,Def_Actions,Defending,Defensive Actions,TRUE
+126,DefMid3rd_Touches,Defending,Defenisve and Middle Third Touches,TRUE
